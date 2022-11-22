@@ -1,6 +1,45 @@
+
+
+
+#My Website name and Link--
+# My website name is -Quize for Web developers
+
+
+
+4. Bullet points in my website --
+
+ans.
+1. add favicon icon and title
+2.add Header and navbar section
+3.add rechart 
+4.add blog component
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
